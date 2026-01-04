@@ -1,0 +1,10 @@
+components/Slidebar.tsx
+components/Dashboard.tsx
+components/Billing.tsx
+components/Inventory.tsx
+components/Marketing.tsx
+components/Smartcalculator.tsx
+components/Storefront.tsx
+components/Adminlogin.tsx
+components/Adminchat.tsx
+components/Reports.tsx
